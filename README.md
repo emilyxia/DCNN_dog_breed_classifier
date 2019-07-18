@@ -1,1 +1,2 @@
-# dog_breed_classifier
+# Deep CNN for dog breed classification
+Hello, welcome to this project repository. Here, I implemented two machine learning models based on deep CNN to perform dog breed classification. The pipeline can be used within either a web or mobile app to process real-world, user-supplied images. If given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If given an image of a human, the code will identify the resembling dog breed. 
