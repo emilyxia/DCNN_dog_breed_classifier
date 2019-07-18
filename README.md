@@ -8,3 +8,6 @@ The dataset used here are provided by Udacity and is similar to Stanford Dog Dat
 This link https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip provides the images for human and can be used to train a human face detector. 
 
 This link https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip provides the images for dog and can be used to trainning of dog related model .
+
+2. Model training
+The models are built upon PyTorch and was trained using GPU acceleration. 
